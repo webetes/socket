@@ -1,5 +1,5 @@
 {
-    "name": "react/socket",
+    "name": "webbeta/socket",
     "description": "Library for building an evented socket server.",
     "keywords": ["socket"],
     "license": "MIT",
